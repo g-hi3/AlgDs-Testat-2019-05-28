@@ -1,0 +1,7 @@
+Berechnen Sie die Komplexität der Prozedur procRec2. Wie oft wird do_something()
+aufgerufen? Wählen Sie für n eine Zweierpotent: n=2k
+Überprüfen Sie Ihre Lösung, indem Sie die Prozedur in C# implementieren und einen Zähler
+einbauen
+
+Komplexität -> O(2^n)
+n = 8 = 6

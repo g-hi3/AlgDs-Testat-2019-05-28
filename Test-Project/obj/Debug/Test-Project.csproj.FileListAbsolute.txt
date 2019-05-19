@@ -1,0 +1,16 @@
+C:\Users\marcf\OneDrive\Dokumente\Unity Projects\AlgDs\MB02\Test-Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\marcf\OneDrive\Dokumente\Unity Projects\AlgDs\MB02\Test-Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\marcf\OneDrive\Dokumente\Unity Projects\AlgDs\MB02\Test-Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\marcf\OneDrive\Dokumente\Unity Projects\AlgDs\MB02\Test-Project\bin\Debug\Test-Project.dll
+C:\Users\marcf\OneDrive\Dokumente\Unity Projects\AlgDs\MB02\Test-Project\bin\Debug\Test-Project.pdb
+C:\Users\marcf\OneDrive\Dokumente\Unity Projects\AlgDs\MB02\Test-Project\bin\Debug\Assembly-CSharp.dll
+C:\Users\marcf\OneDrive\Dokumente\Unity Projects\AlgDs\MB02\Test-Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\marcf\OneDrive\Dokumente\Unity Projects\AlgDs\MB02\Test-Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\marcf\OneDrive\Dokumente\Unity Projects\AlgDs\MB02\Test-Project\bin\Debug\Assembly-CSharp.pdb
+C:\Users\marcf\OneDrive\Dokumente\Unity Projects\AlgDs\MB02\Test-Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\marcf\OneDrive\Dokumente\Unity Projects\AlgDs\MB02\Test-Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\marcf\OneDrive\Dokumente\Unity Projects\AlgDs\MB02\Test-Project\obj\Debug\Test-Project.csprojAssemblyReference.cache
+C:\Users\marcf\OneDrive\Dokumente\Unity Projects\AlgDs\MB02\Test-Project\obj\Debug\Test-Project.csproj.CoreCompileInputs.cache
+C:\Users\marcf\OneDrive\Dokumente\Unity Projects\AlgDs\MB02\Test-Project\obj\Debug\Test-Project.csproj.CopyComplete
+C:\Users\marcf\OneDrive\Dokumente\Unity Projects\AlgDs\MB02\Test-Project\obj\Debug\Test-Project.dll
+C:\Users\marcf\OneDrive\Dokumente\Unity Projects\AlgDs\MB02\Test-Project\obj\Debug\Test-Project.pdb

@@ -1,0 +1,13 @@
+Bestimmen Sie die Komplexitätsklassen, in dem Sie Ihre Algorithmen mehrfach für
+verschiedene Problemgrössen durchführen, die Ausführungszeit messen und die
+entsprechende Kurve aufzeichnen.
+Führen Sie dies für folgende Algorithmen durch:
+• Fibonacci Iterativ
+• Fibonacci Rekursiv
+• Türme von Hanoi
+
+Komplexitätsklassen:
+A: O(n)   -> https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Functiony%3Dx.jpg/220px-Functiony%3Dx.jpg
+B: O(n!)  -> https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Factorial_Interpolation.svg/320px-Factorial_Interpolation.svg.png
+C: O(2^n) -> https://media.studienkreis.de/assets/courses/media/exponentialfunktion-2-hoch-x-ca.png
+
